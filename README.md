@@ -41,7 +41,7 @@
 
 - `cd auto_share`
 
-- `python bot_share`
+- `python bot_share.py`
 
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-Younis.john-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923404708884)
 

@@ -13,13 +13,13 @@
 
 [![](https://img.shields.io/badge/Messenger-red?logo=Messenger&logoColor=red&labelColor=black)](https://m.me/noob.hackers) <br>
 
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/923404708884?text=Hello+Younis+John) <br><br>
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/923404708884?text=Hello+Younis+Xyz) <br><br>
 
 ## 📸 Screenshot 📸
 
-![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisJohn/auto_share/blob/main/Screenshot_20221224-101100.png)
+![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/auto_share/blob/main/Screenshot_20221224-101100.png)
 
-![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisJohn/auto_share/blob/main/Screenshot_20221224-101107.png)
+![Screenshot_2022-08-29-17-44-00-945_com termux](https://github.com/YounisXyz/auto_share/blob/main/Screenshot_20221224-101107.png)
 
 ## <b>installation</b>
 
@@ -37,7 +37,7 @@
 
 - `rm -rf auto_share`
 
-- `git clone https://github.com/YounisJohn/auto_share`
+- `git clone https://github.com/YounisXyz/auto_share`
 
 - `cd auto_share`
 
